@@ -9,7 +9,7 @@ cli tool for downloading images from dl.platform-os.org
 - [ ] validation local cache storage size before downloading image
 - [x] #2
 - [x] #6
-- [ ] validate image checksum
+- [ ] #3
 
 ## parameters
 
