@@ -4,11 +4,11 @@ cli tool for downloading images from dl.platform-os.org
 
 ## todo
 
-- [0] reading ini-file
+- [x] #1 reading ini-file
 - [ ] get and validate images database from dl.platform-os.org/images/index.json
 - [ ] validation local cache storage size before downloading image
-- [+] download image to local cache directory
-- [+] purge local cache
+- [x] #2 download image to local cache directory
+- [x] #1 purge local cache
 - [ ] validate image checksum
 
 ## parameters
