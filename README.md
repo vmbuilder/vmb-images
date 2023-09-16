@@ -22,6 +22,14 @@ allowed options:
   -v [ --version ]      show version
 ```
 
+**example**
+
+Download image
+
+```
+pos-image --download freebsd12.4
+```
+
 ## see also
 
 - https://libosinfo.org/
