@@ -13,11 +13,14 @@ cli tool for downloading images from dl.platform-os.org
 
 ## parameters
 
-- `-c` `--config` - default `/etc/pos/config.ini`
-- `-d` `--download <image> <version>`
-- `-i` `--check <image> <version>`
-- `-p` `--purge`
-- `-v` `--version`
+```
+allowed options:
+  -h [ --help ]         print usage message
+  -c [ --config ] arg   config file path
+  -d [ --download ] arg download image. example: pos-image -d freebsd12.4
+  -p [ --purge ]        purge local cache
+  -v [ --version ]      show version
+```
 
 ## see also
 
