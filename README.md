@@ -18,3 +18,7 @@ cli tool for downloading images from dl.platform-os.org
 - `-i` `--check <image> <version>`
 - `-p` `--purge`
 - `-v` `--version`
+
+## see also
+
+- https://libosinfo.org/
