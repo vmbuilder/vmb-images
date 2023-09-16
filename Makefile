@@ -5,4 +5,4 @@ clean:
 
 build:
 	@mkdir -p bin
-	@g++ -o bin/pos-images posi.cpp -lboost_program_options
+	@g++ -o bin/pos-images posi.cpp -lboost_program_options -lcurl
