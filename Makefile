@@ -5,4 +5,5 @@ clean:
 
 build:
 	@mkdir -p bin
-	@g++ -o bin/pos-images posi.cpp -lboost_program_options -lcurl
+	@g++ -o bin/vmb-template vmb-template.cpp -lboost_program_options -lcurl
+	@g++ -o bin/vmb-index-sync vmb-index-sync.cpp -lboost_program_options -lcurl
